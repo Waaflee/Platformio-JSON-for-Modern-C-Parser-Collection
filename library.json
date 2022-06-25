@@ -1,0 +1,30 @@
+{
+  "name": "JSON for Modern C++ Parser Collection",
+  "version": "1.0.0",
+  "description": "Header only JSON parsers collection to be used in your C++ embedded projects",
+  "keywords": "json, c++11, data, communications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Waaflee/Platformio-JSON-for-Modern-C-Parser-Collection.git"
+  },
+  "authors": [
+    {
+      "name": "Tencent",
+      "url": "https://opensource.tencent.com"
+    },
+    {
+      "name": "Niels Lohmann",
+      "email": "mail@nlohmann.me",
+      "url": "https://nlohmann.me"
+    },
+    {
+      "name": "Agustín Marinsalda Pastor",
+      "url": "https://github.com/Waaflee",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Waaflee/Platformio-JSON-for-Modern-C-Parser-Collection.git",
+  "frameworks": "*",
+  "platforms": "*"
+}
